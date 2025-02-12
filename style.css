@@ -1,0 +1,9 @@
+.Last{
+    position: absolute;
+    top: 9px;
+    right: 15%;
+}
+
+.mybtn{
+    background-image: linear-gradient(to right, #7A87FB,#FFD49C);
+}
